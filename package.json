@@ -55,7 +55,7 @@
     "bitcoinjs-lib": "^5.0.5",
     "merkle-bitcoin": "^1.0.2",
     "promise": "*",
-    "sha3": "^2.1.4",
+    "sha3": "^2.1.4"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
